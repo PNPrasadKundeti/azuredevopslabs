@@ -7,6 +7,7 @@ permalink: default.html
 comments: true
 landingpage: false
 description: Learn how you can implement modern DevOps practices with Azure, Azure DevOps Services and Team Foundation Server.
+author: Prasad Kundeti
 ---
 
 <!-- <div class="bg-image">
